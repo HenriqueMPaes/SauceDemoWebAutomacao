@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Web Automation
 
 Projeto de automação web para portfólio, criado com **Playwright** e **TypeScript**. Ele cobre dois domínios: a documentação pública do Playwright e o e-commerce de demonstração Sauce Demo.
@@ -42,3 +43,7 @@ npm run test:regression
 npm run report
 npm run lint
 ```
+=======
+# SauceDemoWebAutomacao
+Projeto de automação de testes web utilizando Playwright e TypeScript, desenvolvido para validar os principais fluxos da aplicação Sauce Demo, incluindo login, navegação de produtos, gerenciamento do carrinho e processo de checkout.
+>>>>>>> 12b67660eb2b6c6048ab20437e04c6650eccf2e8
