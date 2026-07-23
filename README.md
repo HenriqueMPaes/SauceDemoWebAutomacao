@@ -4,6 +4,8 @@ Projeto de automação de testes web desenvolvido com **Playwright** e **TypeScr
 
 O projeto foi estruturado seguindo boas práticas de automação de testes, utilizando **Page Object Model (POM)**, organização por responsabilidades e execução de testes com o Playwright Test.
 
+<!-- Alteração documental para validação do workflow de Pull Requests. -->
+
 ## 🚀 Tecnologias
 
 - [Playwright](https://playwright.dev/)
